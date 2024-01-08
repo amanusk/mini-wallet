@@ -1,0 +1,9 @@
+{
+  "name": "mini-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "starknet": "^5.25.0"
+  }
+}
